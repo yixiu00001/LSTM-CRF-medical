@@ -1,0 +1,13 @@
+nohup: ignoring input
+<tensorflow.python.platform.flags._FlagValues object at 0x7fba59a22da0>
+2018-01-24 14:53:48.250254: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2018-01-24 14:53:48.250314: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2018-01-24 14:53:48.250321: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2018-01-24 14:53:48.250327: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+/opt/anaconda3/lib/python3.5/site-packages/tensorflow/python/ops/gradients_impl.py:95: UserWarning: Converting sparse IndexedSlices to a dense Tensor of unknown shape. This may consume a large amount of memory.
+  "Converting sparse IndexedSlices to a dense Tensor of unknown shape. "
+train lenght=8312 number_batches=130
+==========1 epoch begin train, time is 2018-01-24 14:53:48
+2018-01-24 14:54:11 epoch 1, step 1, loss: 486.7, global_step: 1
+2018-01-24 14:54:31 epoch 1, step 2, loss: 427.2, global_step: 2
+2018-01-24 14:56:00 epoch 1, step 4, loss: 313.1, global_step: 4

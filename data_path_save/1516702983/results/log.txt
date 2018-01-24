@@ -1,0 +1,5 @@
+2018-01-23 18:23:03,807:INFO: <tensorflow.python.platform.flags._FlagValues object at 0x7fbdfb1950b8>
+2018-01-23 18:23:06,345:INFO: train lenght=2979 number_batches=47
+2018-01-23 18:23:06,345:INFO: train lenght=2979 number_batches=47
+2018-01-23 18:23:06,353:INFO: ==========1 epoch begin train, time is 2018-01-23 18:23:06
+2018-01-23 18:23:06,353:INFO: ==========1 epoch begin train, time is 2018-01-23 18:23:06

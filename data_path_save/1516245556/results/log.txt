@@ -1,0 +1,127 @@
+2018-01-18 11:19:16,766:INFO: <tensorflow.python.platform.flags._FlagValues object at 0x7f448fe0dd68>
+2018-01-18 11:19:19,543:INFO: train lenght=50658 number_batches=792
+2018-01-18 11:19:19,543:INFO: train lenght=50658 number_batches=792
+2018-01-18 11:19:19,553:INFO: ==========1 epoch begin train, time is 2018-01-18 11:19:19
+2018-01-18 11:19:19,553:INFO: ==========1 epoch begin train, time is 2018-01-18 11:19:19
+2018-01-18 11:19:21,616:INFO: 2018-01-18 11:19:21 epoch 1, step 1, loss: 60.62, global_step: 1
+2018-01-18 11:19:21,616:INFO: 2018-01-18 11:19:21 epoch 1, step 1, loss: 60.62, global_step: 1
+2018-01-18 11:22:41,470:INFO: 2018-01-18 11:22:41 epoch 1, step 100, loss: 11.01, global_step: 100
+2018-01-18 11:22:41,470:INFO: 2018-01-18 11:22:41 epoch 1, step 100, loss: 11.01, global_step: 100
+2018-01-18 11:26:04,674:INFO: 2018-01-18 11:26:04 epoch 1, step 200, loss: 8.175, global_step: 200
+2018-01-18 11:26:04,674:INFO: 2018-01-18 11:26:04 epoch 1, step 200, loss: 8.175, global_step: 200
+2018-01-18 11:29:25,658:INFO: 2018-01-18 11:29:25 epoch 1, step 300, loss: 7.523, global_step: 300
+2018-01-18 11:29:25,658:INFO: 2018-01-18 11:29:25 epoch 1, step 300, loss: 7.523, global_step: 300
+2018-01-18 11:32:52,050:INFO: 2018-01-18 11:32:52 epoch 1, step 400, loss: 8.084, global_step: 400
+2018-01-18 11:32:52,050:INFO: 2018-01-18 11:32:52 epoch 1, step 400, loss: 8.084, global_step: 400
+2018-01-18 11:36:14,990:INFO: 2018-01-18 11:36:14 epoch 1, step 500, loss: 6.284, global_step: 500
+2018-01-18 11:36:14,990:INFO: 2018-01-18 11:36:14 epoch 1, step 500, loss: 6.284, global_step: 500
+2018-01-18 11:39:38,629:INFO: 2018-01-18 11:39:38 epoch 1, step 600, loss: 3.716, global_step: 600
+2018-01-18 11:39:38,629:INFO: 2018-01-18 11:39:38 epoch 1, step 600, loss: 3.716, global_step: 600
+2018-01-18 11:43:08,047:INFO: 2018-01-18 11:43:08 epoch 1, step 700, loss: 4.351, global_step: 700
+2018-01-18 11:43:08,047:INFO: 2018-01-18 11:43:08 epoch 1, step 700, loss: 4.351, global_step: 700
+2018-01-18 11:46:38,746:INFO: 2018-01-18 11:46:38 epoch 1, step 792, loss: 2.208, global_step: 792
+2018-01-18 11:46:38,746:INFO: 2018-01-18 11:46:38 epoch 1, step 792, loss: 2.208, global_step: 792
+2018-01-18 11:46:39,065:INFO: =============validation==========
+2018-01-18 11:46:39,065:INFO: =============validation==========
+2018-01-18 11:46:39,999:INFO: processed 2892 tokens with 174 phrases; found: 157 phrases; correct: 122.
+2018-01-18 11:46:39,999:INFO: processed 2892 tokens with 174 phrases; found: 157 phrases; correct: 122.
+2018-01-18 11:46:40,001:INFO: accuracy:  94.19%; precision:  77.71%; recall:  70.11%; FB1:  73.72
+2018-01-18 11:46:40,001:INFO: accuracy:  94.19%; precision:  77.71%; recall:  70.11%; FB1:  73.72
+2018-01-18 11:46:40,002:INFO: LOC: precision:  84.62%; recall:  74.58%; FB1:  79.28  52
+2018-01-18 11:46:40,002:INFO: LOC: precision:  84.62%; recall:  74.58%; FB1:  79.28  52
+2018-01-18 11:46:40,003:INFO: ORG: precision:  60.38%; recall:  50.79%; FB1:  55.17  53
+2018-01-18 11:46:40,003:INFO: ORG: precision:  60.38%; recall:  50.79%; FB1:  55.17  53
+2018-01-18 11:46:40,004:INFO: PER: precision:  88.46%; recall:  88.46%; FB1:  88.46  52
+2018-01-18 11:46:40,004:INFO: PER: precision:  88.46%; recall:  88.46%; FB1:  88.46  52
+2018-01-18 11:46:40,006:INFO: train lenght=50658 number_batches=792
+2018-01-18 11:46:40,006:INFO: train lenght=50658 number_batches=792
+2018-01-18 11:46:40,008:INFO: ==========2 epoch begin train, time is 2018-01-18 11:46:40
+2018-01-18 11:46:40,008:INFO: ==========2 epoch begin train, time is 2018-01-18 11:46:40
+2018-01-18 11:46:42,390:INFO: 2018-01-18 11:46:42 epoch 2, step 1, loss: 3.927, global_step: 793
+2018-01-18 11:46:42,390:INFO: 2018-01-18 11:46:42 epoch 2, step 1, loss: 3.927, global_step: 793
+2018-01-18 11:50:53,831:INFO: 2018-01-18 11:50:53 epoch 2, step 100, loss: 3.071, global_step: 892
+2018-01-18 11:50:53,831:INFO: 2018-01-18 11:50:53 epoch 2, step 100, loss: 3.071, global_step: 892
+2018-01-18 11:55:11,423:INFO: 2018-01-18 11:55:11 epoch 2, step 200, loss: 2.928, global_step: 992
+2018-01-18 11:55:11,423:INFO: 2018-01-18 11:55:11 epoch 2, step 200, loss: 2.928, global_step: 992
+2018-01-18 11:59:24,134:INFO: 2018-01-18 11:59:24 epoch 2, step 300, loss: 2.658, global_step: 1092
+2018-01-18 11:59:24,134:INFO: 2018-01-18 11:59:24 epoch 2, step 300, loss: 2.658, global_step: 1092
+2018-01-18 12:03:23,274:INFO: 2018-01-18 12:03:23 epoch 2, step 400, loss: 2.302, global_step: 1192
+2018-01-18 12:03:23,274:INFO: 2018-01-18 12:03:23 epoch 2, step 400, loss: 2.302, global_step: 1192
+2018-01-18 12:06:43,342:INFO: 2018-01-18 12:06:43 epoch 2, step 500, loss: 4.679, global_step: 1292
+2018-01-18 12:06:43,342:INFO: 2018-01-18 12:06:43 epoch 2, step 500, loss: 4.679, global_step: 1292
+2018-01-18 12:10:06,868:INFO: 2018-01-18 12:10:06 epoch 2, step 600, loss: 2.57, global_step: 1392
+2018-01-18 12:10:06,868:INFO: 2018-01-18 12:10:06 epoch 2, step 600, loss: 2.57, global_step: 1392
+2018-01-18 12:13:28,734:INFO: 2018-01-18 12:13:28 epoch 2, step 700, loss: 2.042, global_step: 1492
+2018-01-18 12:13:28,734:INFO: 2018-01-18 12:13:28 epoch 2, step 700, loss: 2.042, global_step: 1492
+2018-01-18 12:16:31,822:INFO: 2018-01-18 12:16:31 epoch 2, step 792, loss: 2.924, global_step: 1584
+2018-01-18 12:16:31,822:INFO: 2018-01-18 12:16:31 epoch 2, step 792, loss: 2.924, global_step: 1584
+2018-01-18 12:16:32,042:INFO: =============validation==========
+2018-01-18 12:16:32,042:INFO: =============validation==========
+2018-01-18 12:16:32,803:INFO: processed 2892 tokens with 174 phrases; found: 164 phrases; correct: 138.
+2018-01-18 12:16:32,803:INFO: processed 2892 tokens with 174 phrases; found: 164 phrases; correct: 138.
+2018-01-18 12:16:32,805:INFO: accuracy:  95.33%; precision:  84.15%; recall:  79.31%; FB1:  81.66
+2018-01-18 12:16:32,805:INFO: accuracy:  95.33%; precision:  84.15%; recall:  79.31%; FB1:  81.66
+2018-01-18 12:16:32,806:INFO: LOC: precision:  90.74%; recall:  83.05%; FB1:  86.73  54
+2018-01-18 12:16:32,806:INFO: LOC: precision:  90.74%; recall:  83.05%; FB1:  86.73  54
+2018-01-18 12:16:32,807:INFO: ORG: precision:  68.42%; recall:  61.90%; FB1:  65.00  57
+2018-01-18 12:16:32,807:INFO: ORG: precision:  68.42%; recall:  61.90%; FB1:  65.00  57
+2018-01-18 12:16:32,809:INFO: PER: precision:  94.34%; recall:  96.15%; FB1:  95.24  53
+2018-01-18 12:16:32,809:INFO: PER: precision:  94.34%; recall:  96.15%; FB1:  95.24  53
+2018-01-18 12:16:32,810:INFO: train lenght=50658 number_batches=792
+2018-01-18 12:16:32,810:INFO: train lenght=50658 number_batches=792
+2018-01-18 12:16:32,812:INFO: ==========3 epoch begin train, time is 2018-01-18 12:16:32
+2018-01-18 12:16:32,812:INFO: ==========3 epoch begin train, time is 2018-01-18 12:16:32
+2018-01-18 12:16:34,764:INFO: 2018-01-18 12:16:34 epoch 3, step 1, loss: 2.236, global_step: 1585
+2018-01-18 12:16:34,764:INFO: 2018-01-18 12:16:34 epoch 3, step 1, loss: 2.236, global_step: 1585
+2018-01-18 12:19:55,021:INFO: 2018-01-18 12:19:55 epoch 3, step 100, loss: 1.853, global_step: 1684
+2018-01-18 12:19:55,021:INFO: 2018-01-18 12:19:55 epoch 3, step 100, loss: 1.853, global_step: 1684
+2018-01-18 12:23:16,562:INFO: 2018-01-18 12:23:16 epoch 3, step 200, loss: 1.278, global_step: 1784
+2018-01-18 12:23:16,562:INFO: 2018-01-18 12:23:16 epoch 3, step 200, loss: 1.278, global_step: 1784
+2018-01-18 12:26:34,273:INFO: 2018-01-18 12:26:34 epoch 3, step 300, loss: 2.312, global_step: 1884
+2018-01-18 12:26:34,273:INFO: 2018-01-18 12:26:34 epoch 3, step 300, loss: 2.312, global_step: 1884
+2018-01-18 12:29:53,635:INFO: 2018-01-18 12:29:53 epoch 3, step 400, loss: 1.57, global_step: 1984
+2018-01-18 12:29:53,635:INFO: 2018-01-18 12:29:53 epoch 3, step 400, loss: 1.57, global_step: 1984
+2018-01-18 12:33:16,630:INFO: 2018-01-18 12:33:16 epoch 3, step 500, loss: 1.843, global_step: 2084
+2018-01-18 12:33:16,630:INFO: 2018-01-18 12:33:16 epoch 3, step 500, loss: 1.843, global_step: 2084
+2018-01-18 12:36:34,936:INFO: 2018-01-18 12:36:34 epoch 3, step 600, loss: 1.917, global_step: 2184
+2018-01-18 12:36:34,936:INFO: 2018-01-18 12:36:34 epoch 3, step 600, loss: 1.917, global_step: 2184
+2018-01-18 12:39:55,663:INFO: 2018-01-18 12:39:55 epoch 3, step 700, loss: 1.506, global_step: 2284
+2018-01-18 12:39:55,663:INFO: 2018-01-18 12:39:55 epoch 3, step 700, loss: 1.506, global_step: 2284
+2018-01-18 12:43:02,876:INFO: 2018-01-18 12:43:02 epoch 3, step 792, loss: 1.026, global_step: 2376
+2018-01-18 12:43:02,876:INFO: 2018-01-18 12:43:02 epoch 3, step 792, loss: 1.026, global_step: 2376
+2018-01-18 12:43:03,093:INFO: =============validation==========
+2018-01-18 12:43:03,093:INFO: =============validation==========
+2018-01-18 12:43:04,508:INFO: processed 2892 tokens with 174 phrases; found: 157 phrases; correct: 137.
+2018-01-18 12:43:04,508:INFO: processed 2892 tokens with 174 phrases; found: 157 phrases; correct: 137.
+2018-01-18 12:43:04,510:INFO: accuracy:  95.23%; precision:  87.26%; recall:  78.74%; FB1:  82.78
+2018-01-18 12:43:04,510:INFO: accuracy:  95.23%; precision:  87.26%; recall:  78.74%; FB1:  82.78
+2018-01-18 12:43:04,512:INFO: LOC: precision:  90.91%; recall:  84.75%; FB1:  87.72  55
+2018-01-18 12:43:04,512:INFO: LOC: precision:  90.91%; recall:  84.75%; FB1:  87.72  55
+2018-01-18 12:43:04,512:INFO: ORG: precision:  75.00%; recall:  57.14%; FB1:  64.86  48
+2018-01-18 12:43:04,512:INFO: ORG: precision:  75.00%; recall:  57.14%; FB1:  64.86  48
+2018-01-18 12:43:04,513:INFO: PER: precision:  94.44%; recall:  98.08%; FB1:  96.23  54
+2018-01-18 12:43:04,513:INFO: PER: precision:  94.44%; recall:  98.08%; FB1:  96.23  54
+2018-01-18 12:43:04,514:INFO: train lenght=50658 number_batches=792
+2018-01-18 12:43:04,514:INFO: train lenght=50658 number_batches=792
+2018-01-18 12:43:04,515:INFO: ==========4 epoch begin train, time is 2018-01-18 12:43:04
+2018-01-18 12:43:04,515:INFO: ==========4 epoch begin train, time is 2018-01-18 12:43:04
+2018-01-18 12:43:07,345:INFO: 2018-01-18 12:43:07 epoch 4, step 1, loss: 1.025, global_step: 2377
+2018-01-18 12:43:07,345:INFO: 2018-01-18 12:43:07 epoch 4, step 1, loss: 1.025, global_step: 2377
+2018-01-18 12:46:26,864:INFO: 2018-01-18 12:46:26 epoch 4, step 100, loss: 1.983, global_step: 2476
+2018-01-18 12:46:26,864:INFO: 2018-01-18 12:46:26 epoch 4, step 100, loss: 1.983, global_step: 2476
+2018-01-18 12:49:42,848:INFO: 2018-01-18 12:49:42 epoch 4, step 200, loss: 2.229, global_step: 2576
+2018-01-18 12:49:42,848:INFO: 2018-01-18 12:49:42 epoch 4, step 200, loss: 2.229, global_step: 2576
+2018-01-18 12:53:05,320:INFO: 2018-01-18 12:53:05 epoch 4, step 300, loss: 1.79, global_step: 2676
+2018-01-18 12:53:05,320:INFO: 2018-01-18 12:53:05 epoch 4, step 300, loss: 1.79, global_step: 2676
+2018-01-18 12:56:26,455:INFO: 2018-01-18 12:56:26 epoch 4, step 400, loss: 1.263, global_step: 2776
+2018-01-18 12:56:26,455:INFO: 2018-01-18 12:56:26 epoch 4, step 400, loss: 1.263, global_step: 2776
+2018-01-18 12:59:47,207:INFO: 2018-01-18 12:59:47 epoch 4, step 500, loss: 1.025, global_step: 2876
+2018-01-18 12:59:47,207:INFO: 2018-01-18 12:59:47 epoch 4, step 500, loss: 1.025, global_step: 2876
+2018-01-18 13:03:08,810:INFO: 2018-01-18 13:03:08 epoch 4, step 600, loss: 0.7749, global_step: 2976
+2018-01-18 13:03:08,810:INFO: 2018-01-18 13:03:08 epoch 4, step 600, loss: 0.7749, global_step: 2976
+2018-01-18 13:06:29,618:INFO: 2018-01-18 13:06:29 epoch 4, step 700, loss: 1.312, global_step: 3076
+2018-01-18 13:06:29,618:INFO: 2018-01-18 13:06:29 epoch 4, step 700, loss: 1.312, global_step: 3076
+2018-01-18 13:09:33,965:INFO: 2018-01-18 13:09:33 epoch 4, step 792, loss: 1.017, global_step: 3168
+2018-01-18 13:09:33,965:INFO: 2018-01-18 13:09:33 epoch 4, step 792, loss: 1.017, global_step: 3168
+2018-01-18 13:09:34,183:INFO: =============validation==========
+2018-01-18 13:09:34,183:INFO: =============validation==========

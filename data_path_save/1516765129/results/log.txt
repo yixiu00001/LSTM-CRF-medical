@@ -1,0 +1,7 @@
+2018-01-24 11:38:49,539:INFO: <tensorflow.python.platform.flags._FlagValues object at 0x7f1c7bc8be10>
+2018-01-24 11:38:52,117:INFO: train lenght=8312 number_batches=130
+2018-01-24 11:38:52,117:INFO: train lenght=8312 number_batches=130
+2018-01-24 11:38:52,127:INFO: ==========1 epoch begin train, time is 2018-01-24 11:38:52
+2018-01-24 11:38:52,127:INFO: ==========1 epoch begin train, time is 2018-01-24 11:38:52
+2018-01-24 11:40:01,369:INFO: 2018-01-24 11:40:01 epoch 1, step 1, loss: 535.2, global_step: 1
+2018-01-24 11:40:01,369:INFO: 2018-01-24 11:40:01 epoch 1, step 1, loss: 535.2, global_step: 1

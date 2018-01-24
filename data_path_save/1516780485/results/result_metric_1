@@ -1,0 +1,5 @@
+processed 2817 tokens with 213 phrases; found: 222 phrases; correct: 128.
+accuracy:  90.88%; precision:  57.66%; recall:  60.09%; FB1:  58.85
+             BODY: precision:  65.06%; recall:  81.82%; FB1:  72.48  83
+          DISEASE: precision:  61.54%; recall:  51.06%; FB1:  55.81  78
+          SYMPTOM: precision:  42.62%; recall:  49.06%; FB1:  45.61  61

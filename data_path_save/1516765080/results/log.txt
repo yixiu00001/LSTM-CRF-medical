@@ -1,0 +1,1 @@
+2018-01-24 11:38:00,201:INFO: <tensorflow.python.platform.flags._FlagValues object at 0x7f77785cbe10>
